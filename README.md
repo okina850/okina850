@@ -34,6 +34,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 
 **Technical:** Python, Julia, C++, PyTorch, Git, Linux  
 **Methods:** Financial time series, Monte Carlo simulation, Function approximation
+
 **Languages:** Japanese(Native), English(Bussiness level)
 
 ## Presentations
@@ -69,6 +70,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 
 **技術：** Python、Julia、C++、PyTorch、Git、Linux  
 **手法：** 金融時系列分析、モンテカルロシミュレーション、関数近似 
+
 **言語：** 日本語（母語）、英語（ビジネスレベル）
 
 ## 講演・発表
