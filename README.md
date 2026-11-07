@@ -24,7 +24,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 - **Random number generation(Tokyo Metropilitan University)** — Led Python experiments on function approximation for the inverse method. Presented the work at the 2026 annual meeting of the Japan Society for Industrial and Applied Mathematics.
 - **Building a fast simulator(Chuo University)** — Reimplemented the simulator for "Divisible Sandpile Model" in Julia and redesigned its algorithm. The speedup made it possible to test theoretical predictions numerically.
 
-### Finance
+### Financial Engineering
 - **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students 2026-2027."
 
 ### Machine Learning
@@ -33,7 +33,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 ## Skills
 
 **Technical:** Python, Julia, C++, PyTorch, Git, Linux  
-**Methods:** Financial time series, Monte Carlo simulation, numerical approximation
+**Methods:** Financial time series, Monte Carlo simulation, Function approximation
 **Languages:** Japanese(Native), English(Bussiness level)
 
 <a id="japanese"></a>
@@ -58,11 +58,11 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 - **数値実験用高速シミュレータ開発(中央大学)** — 数理モデル「Divisible Sandpile Model」の数値実験用のシミュレータをJuliaで再実装し、アルゴリズムを再設計。高速化により、理論的予測の数値検証を実現。
 ### 金融工学
 - **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students 2026-2027」に提出。
-###
+### 機械学習
 - **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果をIBIS2026にて発表。
 
 ## スキル
 
 **技術：** Python、Julia、C++、PyTorch、Git、Linux  
-**手法：** 金融時系列分析、モンテカルロシミュレーション、数値近似  
+**手法：** 金融時系列分析、モンテカルロシミュレーション、関数近似 
 **言語：** 日本語（母語）、英語（ビジネスレベル）
