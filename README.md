@@ -20,11 +20,15 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 **I'm someone who enjoys mathematics and science, with a passion for applying them to technology that supports people and society**.
 
 ## Selected projects
-
-- **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students."
+### Applied Math
 - **Random number generation(Tokyo Metropilitan University)** — Led Python experiments on function approximation for the inverse method. Presented the work at the 2026 annual meeting of the Japan Society for Industrial and Applied Mathematics.
 - **Building a fast simulator(Chuo University)** — Reimplemented the simulator for "Divisible Sandpile Model" in Julia and redesigned its algorithm. The speedup made it possible to test theoretical predictions numerically.
-- **Learnable activation functions in GPT (Individual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories.
+
+### Finance
+- **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students 2026-2027."
+
+### Machine Learning
+- **Learnable activation functions in GPT (Indivisual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories. Presented the work at the "IBIS 2026"
 
 ## Skills
 
@@ -49,10 +53,13 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 
 ## 主なプロジェクト
 
-- **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students」に提出。
+### 応用数学
 - **乱数生成（東京都立大学）** — 逆関数法に用いる関数近似について、Pythonによる数値実験を主導。日本応用数理学会2026年度年会で発表。
 - **数値実験用高速シミュレータ開発(中央大学)** — 数理モデル「Divisible Sandpile Model」の数値実験用のシミュレータをJuliaで再実装し、アルゴリズムを再設計。高速化により、理論的予測の数値検証を実現。
-- **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。
+### 金融工学
+- **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students 2026-2027」に提出。
+###
+- **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果をIBIS2026にて発表。
 
 ## スキル
 
