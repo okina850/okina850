@@ -36,6 +36,10 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 **Methods:** Financial time series, Monte Carlo simulation, Function approximation
 **Languages:** Japanese(Native), English(Bussiness level)
 
+## Presentations
+有理関数近似を用いた効率的な逆関数法の実現と準モンテカルロ法への応用
+(日本応用数理学会2026年度年会 2026)
+
 <a id="japanese"></a>
 
 ## 自己紹介
@@ -66,3 +70,10 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 **技術：** Python、Julia、C++、PyTorch、Git、Linux  
 **手法：** 金融時系列分析、モンテカルロシミュレーション、関数近似 
 **言語：** 日本語（母語）、英語（ビジネスレベル）
+
+## 講演・発表
+- 有理関数近似を用いた効率的な逆関数法の実現と準モンテカルロ法への応用 (異分野異業種交流会, 東大駒場, 2026)
+- GPT-2における有理活性化関数の有効性検証 (IBIS2026, 大宮, 2026)
+- 有理関数近似を用いた効率的な逆関数法の実現と準モンテカルロ法への応用 (日本応用数理学会2026年度年会, 福岡, 2026)
+- 離散砂山模型のオドメータ—の共分散についての数値計算結果 (中央大学, 2021)
+
