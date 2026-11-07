@@ -1,6 +1,6 @@
 ## Naoki Oshio | 鴛尾 直樹
 **Five years of research experience in applied mathematics, with a focus on numerical experiments and programming — also runnning machine learning project recently.**
-
+**応用数学研究、特に数値シミュレーションにおいて5年間の経験があります ー 近年は機械学習プロジェクトも進行中**
 [English](#english) · [日本語](#japanese)
 
 <a id="english"></a>
