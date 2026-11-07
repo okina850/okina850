@@ -28,7 +28,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 - **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students 2026-2027."
 
 ### Machine Learning
-- **Learnable activation functions in GPT (Indivisual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories. Presented the work at the "IBIS 2026"
+- **Learnable activation functions in GPT (Individual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories. Presented the work at the "IBIS 2026"
 
 ## Skills
 
