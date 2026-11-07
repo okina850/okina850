@@ -1,7 +1,7 @@
 ## Naoki Oshio | 鴛尾 直樹
 **Five years of research experience in applied mathematics, with a focus on numerical experiments and programming — also runnning machine learning project recently.**
 
-**応用数学研究、特に数値シミュレーションにおいて5年間の経験があります ー 近年は機械学習プロジェクトも進行中**
+**応用数学研究、特に数値シミュレーションにおいて5年間の経験 ー 近年は機械学習プロジェクトも進行中**
 
 [English](#english) · [日本語](#japanese)
 
@@ -21,10 +21,10 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 
 ## Selected projects
 
-- **Can gold protect Japanese equity investors?** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students."
-- **Random number generation(Labo project)** — Led Python experiments on function approximation for the inverse method. Presented the work at the 2026 annual meeting of the Japan Society for Industrial and Applied Mathematics.
-- **Building a fast simulator of physics model** — Reimplemented the simulator in Julia and redesigned its algorithm. The speedup made it possible to test theoretical predictions numerically.
-- **Learnable activation functions in GPT** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories.
+- **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students."
+- **Random number generation(Tokyo Metropilitan University)** — Led Python experiments on function approximation for the inverse method. Presented the work at the 2026 annual meeting of the Japan Society for Industrial and Applied Mathematics.
+- **Building a fast simulator(Chuo University)** — Reimplemented the simulator for "Divisible Sandpile Model" in Julia and redesigned its algorithm. The speedup made it possible to test theoretical predictions numerically.
+- **Learnable activation functions in GPT (Individual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories.
 
 ## Skills
 
@@ -49,9 +49,9 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 
 ## 主なプロジェクト
 
-- **金は日本株投資家を守れるか？** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students」に提出。
-- **乱数生成（研究室プロジェクト）** — 逆関数法に用いる関数近似について、Pythonによる数値実験を主導。日本応用数理学会2026年度年会で発表。
-- **物理モデルの高速シミュレータ開発** — シミュレータをJuliaで再実装し、アルゴリズムを再設計。高速化により、理論的予測の数値検証を実現。
+- **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students」に提出。
+- **乱数生成（東京都立大学）** — 逆関数法に用いる関数近似について、Pythonによる数値実験を主導。日本応用数理学会2026年度年会で発表。
+- **数値実験用高速シミュレータ開発(中央大学)** — 数理モデル「Divisible Sandpile Model」の数値実験用のシミュレータをJuliaで再実装し、アルゴリズムを再設計。高速化により、理論的予測の数値検証を実現。
 - **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。
 
 ## スキル
