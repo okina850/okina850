@@ -28,7 +28,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 - **Can gold protect Japanese equity investors?(GPIF Research Competition)** Examined gold's hedge and safehaven property using copulas and conditional CVaR. Submitted to the asset management competition "GPIF Finance Awards for Students 2026-2027."
 
 ### Machine Learning
-- **Learnable activation functions in GPT (Individual project)** — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories. Presented the work at the ["IBIS 2026"](https://ibisml.org/ibis2026/posters/)
+- [**Learnable activation functions in GPT (Individual project)**](https://github.com/okina850/Transformer---------------------) — Pretrained GPT with GELU and with a learnable rational activation function, then compared perplexity on TinyStories. Presented the work at the ["IBIS 2026"](https://ibisml.org/ibis2026/posters/)
 
 ## Skills
 
@@ -59,7 +59,7 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 ### 金融工学
 - **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students 2026-2027」に提出。
 ### 機械学習
-- **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果を[IBIS2026](https://ibisml.org/ibis2026/posters/)にて発表。
+- [**GPTへの学習可能な活性化関数の導入**](https://github.com/okina850/Transformer---------------------) — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果を[IBIS2026](https://ibisml.org/ibis2026/posters/)にて発表。
 
 ## スキル
 
