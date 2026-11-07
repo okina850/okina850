@@ -54,12 +54,12 @@ Outside of my studies, I did internships at **Japan Post Bank**, where I worked 
 ## 主なプロジェクト
 
 ### 応用数学
-- **乱数生成（東京都立大学）** — 逆関数法に用いる関数近似について、Pythonによる数値実験を主導。[日本応用数理学会2026年度年会]((https://conference.wdc-jp.com/jsiam/2026/program/program_flash))で発表。
+- **乱数生成（東京都立大学）** — 逆関数法に用いる関数近似について、Pythonによる数値実験を主導。[日本応用数理学会2026年度年会](https://conference.wdc-jp.com/jsiam/2026/program/program_flash)で発表。
 - **数値実験用高速シミュレータ開発(中央大学)** — 数理モデル「Divisible Sandpile Model」の数値実験用のシミュレータをJuliaで再実装し、アルゴリズムを再設計。高速化により、理論的予測の数値検証を実現。
 ### 金融工学
 - **金は日本株投資家を守れるか？(GPIF研究大会)** — コピュラと条件付きCVaRを用いて、金のヘッジ特性と安全資産としての特性を検証。研究成果を「GPIF Finance Awards for Students 2026-2027」に提出。
 ### 機械学習
-- **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果を[IBIS2026]((https://ibisml.org/ibis2026/posters/))にて発表。
+- **GPTへの学習可能な活性化関数の導入** — GELUと学習可能な有理活性化関数をそれぞれ用いてGPTを事前学習し、TinyStoriesでパープレキシティを比較。研究成果を[IBIS2026](https://ibisml.org/ibis2026/posters/)にて発表。
 
 ## スキル
 
